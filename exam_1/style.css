@@ -1,0 +1,38 @@
+body {
+    margin: 3%;
+}
+
+.contl{
+    margin-bottom: 25%;
+}
+
+.li {
+    position: relative;
+    list-style-type: none;
+    display: flex;
+    background: ;
+    left: 85vh
+}
+h1{
+    list-style: decimal-leading-zero;
+    
+}
+button {
+    padding: 6px 12px;
+    position: relative;
+    ;
+
+}
+.li1{
+    list-style-type: none;
+    display: flex;
+    left: 50%;
+    position: relative;
+}
+.button1{
+    padding: 6px 12;
+    background-color: rgb(86, 206, 86);
+    position: absolute;
+    border: 4vh;
+    left: 5%;
+}
