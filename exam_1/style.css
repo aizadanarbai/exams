@@ -1,38 +1,85 @@
 body {
-    margin: 3%;
+    width: 300px;
+    margin-top: 15px;
+    font-family:Verdana, sans-serif;
+    padding: 5%; 
+    margin-left:70px;
+
 }
 
-.contl{
-    margin-bottom: 25%;
+header{
+    display: flex;  
+    padding: 12px;
+    margin:25px
 }
 
-.li {
-    position: relative;
+
+li{
+    text-transform: ;
     list-style-type: none;
+    display: list-item;
+    position: relative;
+    text-emphasis-position: line;
+    font-size: 12px;
+    text-shadow: none;
+    column-count: 2;
+    left: 85px;
+}
+  a {
+   
     display: flex;
-    background: ;
-    left: 85vh
+    position: relative;
+    margin-inline: 25px;
+
+
+    
+
 }
 h1{
-    list-style: decimal-leading-zero;
+    font-weight: lighter;
+    margin-bottom:15px;
+    font-size: 35px;
+    
     
 }
-button {
-    padding: 6px 12px;
+.a1{
+    display: flex;
     position: relative;
-    ;
+    margin-top: 80px;
+    font-size: 27px;
+    column-count: ;
+}
+p{
+    font-size: 12px;
+}
+
+button {
+    width: 80px;
+    height: 30px;
+    background-color: rgb(66, 191, 66);
+    border: 3px;
+    border-radius: 5px;
 
 }
-.li1{
-    list-style-type: none;
-    display: flex;
-    left: 50%;
+.a2 {
     position: relative;
+    display: flex;
+    font-size: 12px;
+    margin-top: 30px;
+    column-count: ;
+   
 }
-.button1{
-    padding: 6px 12;
-    background-color: rgb(86, 206, 86);
-    position: absolute;
-    border: 4vh;
-    left: 5%;
+.box {
+    width: 60px;
+    height: 25px;
+    background-color: rgb(66, 191, 66);
+    border: 3px;
+    border-radius: 5px;
+    left: 110px;
+    font-size: 12px;
+    text-align: left;
+}
+
+.a3{
+    font-size: 12px;
 }

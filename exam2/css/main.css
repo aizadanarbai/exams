@@ -1,0 +1,115 @@
+.div-style {
+    max-width: 1246px;
+    position: relative;
+}
+
+.style-first{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.img-style1 img{
+    padding-top: 120px;
+    margin-left:115px ;
+    width: 608px;
+    height: 395px;
+    flex-shrink: 0;
+}
+.style-first h1{
+    padding-top:160px;
+    position: absolute;
+    margin-left: 770px;
+    color: #FFF;
+    font-family: "Montserrat";
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+.style-first p{
+    color: #FFF;
+    font-family: Raleway;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 24px */
+    padding-top:240px;
+    position: absolute;
+    margin-left: 770px;
+    opacity: 77%;
+}
+
+.style-first a{
+    color: var(--Accent-color, #EEC48B);
+    font-family: "Raleway";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%; /* 24px */
+    text-transform: uppercase;
+    padding-top:475px;
+    position: absolute;
+    margin-left: 1129px;
+}
+
+.sec-style{
+    max-width: 2500px;
+    max-height: 600px;
+    
+} 
+.style-second{
+    position:absolute;
+}
+
+.style-second h1{
+    color: #FFF;
+    font-family: "Montserrat";
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    padding-top:230px;
+    margin-left:166px;
+    position: relative;
+}
+
+.style-second p{
+    color: #FFF;
+    font-family: "Raleway";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 24px */
+    padding-top: 250pxpx ;
+    margin-left: 166px;
+    position: relative;
+    width: 396;
+    height: 48px;
+    text-align: left;
+    opacity: 60%;
+}
+
+.style-second a{
+    color: var(--Accent-color, #EEC48B);
+    font-family: "Raleway";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%; /* 24px */
+    text-transform: uppercase;
+    padding-top: 300px;
+    margin-left: 166px;
+    position: relative;
+    margin-bottom: 42px;
+
+}
+
+.style-second img{
+    width: 1366px;
+    height: 650px;
+    flex-shrink: 0;
+    padding-top:200px;
+    position: absolute;
+}
+
